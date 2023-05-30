@@ -46,7 +46,7 @@
 |---|---|---|---|---|
 | Mastori  |Community blogging  platform   | Yes | Yes | [mastori](https://github.com/SpaceyaTech/mastori) |
 |  Swaggs |E-commerce shop site for community swaggs | Yes |  Yes | [Swaggs](https://github.com/SpaceyaTech/shop-service) |
-|  SYT Website |Redesign of our website   | Yes  |  Yes |  [website](https://github.com/SpaceyaTech/spaceyatech-website) |
+|  SYT Website |Redesign of our website   | Yes  |  Yes |  [website](https://github.com/SpaceyaTech/SYT-Web-Redesign) |
 
 
 <ul>
