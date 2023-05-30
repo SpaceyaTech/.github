@@ -41,6 +41,14 @@
 
 [![SpaceYaTech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpaceyaTech)
 
+
+  |  Project  | Description   |  Active   | Colaborating  | Links |
+|---|---|---|---|---|
+| Mastori  |Community blogging  platform   | Yes | Yes | [mastori](https://github.com/SpaceyaTech/mastori) |
+|  Swaggs |E-commerce shop site for community swaggs | Yes |  Yes | [Swaggs](https://github.com/SpaceyaTech/shop-service) |
+|  SYT Website |Redesign of our website   | Yes  |  Yes |  [website](https://github.com/SpaceyaTech/spaceyatech-website) |
+
+
 <ul>
   ⭐ <b> Open-Source Projects</b>
   </ul>
