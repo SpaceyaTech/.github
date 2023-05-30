@@ -18,16 +18,6 @@
         ✨ Working professionals or job seekers <br>
         ✨ Recruiters looking for interns or junior/senior developers <br>
      </ul>
-    ⭐ Interest Areas:
-    <ul>        
-        📱 App Development <br> 
-        🖥️ Web Development <br> 
-        🎨 UI/UX <br> 
-        ☁  Cloud <br> 
-        🧠 Machine Learning and AI <br> 
-        🔗 Blockchain/Crypto <br> 
-        🤖 IoT/Embedded <br> 
-    </ul>
 </p>
 
 <h2>📌 <ins>What Does SpaceYaTech Do?</ins></h2>
@@ -41,8 +31,8 @@
 
 [![SpaceYaTech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpaceyaTech)
 
-# Open Source Projects 
-## Active SProjects Listing
+# ⭐ Open Source Projects 
+## Active Projects Listing
   |  Project  | Description   | Tech Stack | Active   | Colaborating  | Links |
 |---|---|---|---|---|---|
 | Mastori  |Community blogging  platform  | Django-rest | Yes | Yes | [mastori](https://github.com/SpaceyaTech/mastori) |
@@ -53,14 +43,9 @@
 | Symbiont | Symbiont is a social media platform that has a chrome extension that allows anyone to comment in a message thread leading off any word on any website in the world. | - Java - React or Angular and some TypeScript - SQL - CSS | Yes | Yes | [Symbiont Onboarding](https://docs.google.com/document/d/1C4uq56bHiaxLsYFu82Qtqnzj0hUORstzf6eQfcelVrk/edit?usp=sharing)|
 
 
-
-
-<ul>
-  ⭐ <b> Open-Source Projects</b>
-  </ul>
 <p>
  ✨ We run full-stack open-source projects where UI/UX designers, developers and devops engineers work together to create full-stack applications
- </p>
+</p>
   
   [![Github](https://img.shields.io/github/followers/SpaceyaTech.svg?style=social&label=Following&maxAge=2592000)](https://github.com/SpaceyaTech/) 
   
