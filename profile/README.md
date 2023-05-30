@@ -42,11 +42,16 @@
 [![SpaceYaTech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpaceyaTech)
 
 
-  |  Project  | Description   |  Active   | Colaborating  | Links |
-|---|---|---|---|---|
-| Mastori  |Community blogging  platform   | Yes | Yes | [mastori](https://github.com/SpaceyaTech/mastori) |
-|  Swaggs |E-commerce shop site for community swaggs | Yes |  Yes | [Swaggs](https://github.com/SpaceyaTech/shop-service) |
-|  SYT Website |Redesign of our website   | Yes  |  Yes |  [website](https://github.com/SpaceyaTech/SYT-Web-Redesign) |
+  |  Project  | Description   | Tech Stack | Active   | Colaborating  | Links |
+|---|---|---|---|---|---|
+| Mastori  |Community blogging  platform  | Django-rest | Yes | Yes | [mastori](https://github.com/SpaceyaTech/mastori) |
+| Swaggs |E-commerce shop site for community swaggs | Django-rest | Yes |  Yes | [Swaggs](https://github.com/SpaceyaTech/shop-service) |
+| SYT Website |Redesign of our website  | React | Yes  |  Yes |  [website](https://github.com/SpaceyaTech/SYT-Web-Redesign) |
+| Storefront | Frontend build for the Swaggs E-commerce shop site| React | Starting soon | Yes | N/A |
+| Mastori web-front  | Frontend build for the Mastori community blog site| React | Starting soon | Yes | [Mastori Frontend](https://github.com/SpaceyaTech/mastori-frontend) |
+| Symbiont | Symbiont is a social media platform that has a chrome extension that allows anyone to comment in a message thread leading off any word on any website in the world. | - Java - React or Angular and some TypeScript - SQL - CSS | Yes | Yes | To Share Joining Instructions soon|
+
+
 
 
 <ul>
