@@ -41,7 +41,8 @@
 
 [![SpaceYaTech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpaceyaTech)
 
-
+# Open Source Projects 
+## Active SProjects Listing
   |  Project  | Description   | Tech Stack | Active   | Colaborating  | Links |
 |---|---|---|---|---|---|
 | Mastori  |Community blogging  platform  | Django-rest | Yes | Yes | [mastori](https://github.com/SpaceyaTech/mastori) |
