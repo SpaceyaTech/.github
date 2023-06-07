@@ -40,8 +40,7 @@
 | SYT Website |Redesign of our website  | React | Yes  |  Yes |  [website](https://github.com/SpaceyaTech/SYT-Web-Redesign) |
 | Storefront | Frontend build for the Swaggs E-commerce shop site| React | Starting soon | Yes | N/A |
 | Mastori web-front  | Frontend build for the Mastori community blog site| React | Starting soon | Yes | [Mastori Frontend](https://github.com/SpaceyaTech/mastori-frontend) |
-| Symbiont | Symbiont is a social media platform that has a chrome extension that allows anyone to comment in a message thread leading off any word on any website in the world. | - Java - React or Angular and some TypeScript - SQL - CSS | Yes | Yes | [Symbiont Onboarding](https://github.com/SpaceyaTech/.github/wiki/Symbiont-Project)|
-
+| Symbiont | Symbiont is a social media platform that has a chrome extension that allows anyone to comment in a message thread leading off any word on any website in the world. | - Java - React or Angular and some TypeScript - SQL - CSS | Yes | Yes | [Symbiont Onboarding](https://docs.google.com/document/d/1C4uq56bHiaxLsYFu82Qtqnzj0hUORstzf6eQfcelVrk/edit?usp=sharing)|
 
 <p>
  ✨ We run full-stack open-source projects where UI/UX designers, developers and devops engineers work together to create full-stack applications
