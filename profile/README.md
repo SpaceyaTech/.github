@@ -41,7 +41,7 @@
 | Storefront | Frontend build for the Swaggs E-commerce shop site| React | Starting soon | Yes | N/A |
 | Mastori web-front  | Frontend build for the Mastori community blog site| React | Starting soon | Yes | [Mastori Frontend](https://github.com/SpaceyaTech/mastori-frontend) |
 | Symbiont | Symbiont is a social media platform that has a chrome extension that allows anyone to comment in a message thread leading off any word on any website in the world. | - Java - React or Angular and some TypeScript - SQL - CSS | Yes | Yes | [Symbiont Onboarding](https://docs.google.com/document/d/1C4uq56bHiaxLsYFu82Qtqnzj0hUORstzf6eQfcelVrk/edit?usp=sharing)|
-
+| Eaty | a platform that helps people decide what to eat. A user or the app would create a list of food with their nutritional content, then everyday at a given time, it would  suggest on what the user should eat, we all know how much work that can be.| React, Django-Rest| Yes| Yes| [Eaty](https://github.com/Code-AfterWork/eaty)
 <p>
  ✨ We run full-stack open-source projects where UI/UX designers, developers and devops engineers work together to create full-stack applications
 </p>
