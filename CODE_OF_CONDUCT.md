@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as members, contributors and maintainers pledge to making participation in our project and
+We as members, contributors and maintainers pledge to making participation in our projects and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity and expression,
 level of experience, education, socio-economic status, nationality, personal
