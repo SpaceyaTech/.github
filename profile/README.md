@@ -32,24 +32,18 @@
 [![SpaceYaTech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpaceyaTech)
 
 # ⭐ Open Source Projects 
-## Active Projects Listing  [CoLabs](https://spaceyatech.github.io/CoLabs/)
-  |  Project  | Description   | Tech Stack | Active   | Colaborating  |
-|---|---|---|---|---|
-| Mastori  |Community blogging  platform  | Django-rest | Yes | Yes |
-| Swaggs |E-commerce shop site for community swaggs | Django-rest | Yes |  Yes | 
-| SYT Website |Redesign of our website  | React | Yes  |  Yes |
-| Storefront | Frontend build for the Swaggs E-commerce shop site| React | Starting soon | Yes |
-| Mastori web-front  | Frontend build for the Mastori community blog site| React | Starting soon | Yes |
-| Symbiont | Symbiont is a social media platform that has a chrome extension that allows anyone to comment in a message thread leading off any word on any website in the world. | - Java - React or Angular and some TypeScript - SQL - CSS | Yes | Yes | 
-| Eaty | A complete DevOps project that takes you through the entire development process of a DevOps project from a blank code editor to  a deployed app by building a meal generator that helps you brainstorm on daily meal ideas.| React, Django-Rest| Yes| Yes| 
-| Git Metrics | Git metrics is a Java project that can inspect the git history of a project and provide metrics on contribution by contributors. | Java | Yes| Yes|
-
-✨ Register your Project with us here
+## Active Projects Listing  
+[![CoLabs](https://img.shields.io/badge/View_Projects_In_CoLabs-06b86a?style=for-the-badge&logoColor=white)](https://spaceyatech.github.io/CoLabs/)
+  
+  ✨ Register your Project with us here
 
 [![Register your project on CoLabs](https://img.shields.io/badge/Register_Your_Project_on_CoLabs-06b86a?style=for-the-badge&logoColor=white)](https://airtable.com/shrahlgmnr7Zhqcbz)
 <p>
  ✨ We run full-stack open-source projects where UI/UX designers, developers and devops engineers work together to create full-stack applications
 </p>
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
   
   [![Github](https://img.shields.io/github/followers/SpaceyaTech.svg?style=social&label=Following&maxAge=2592000)](https://github.com/SpaceyaTech/) 
   
